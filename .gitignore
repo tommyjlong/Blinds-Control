@@ -1,0 +1,11 @@
+## OS specific ########
+
+## Project files ######
+.github/
+api/
+arduino/
+esp8266.flash.1m0.ld
+pio/
+platformio.ini
+tools/
+.travis.yml
