@@ -31,13 +31,13 @@ The following devices are supported:
 
   You can use the following Arduino IDE Board settings:
 
-  <img src="https://github.com/tommyjlong/Blinds-Control/tree/master/media/Board_Generic.jpg" width="250" align="center" />
+  <img src="https://raw.githubusercontent.com/tommyjlong/Blinds-Control/master/media/Board_Generic.jpg" width="250" align="center" />
 
 - Node MCU
 
   You can use the following Arduino IDE Board settings:
 
-  <img src="https://github.com/tommyjlong/Blinds-Control/tree/master/media/Board_NodeMCU.jpg" width="250" align="center" />
+  <img src="https://raw.githubusercontent.com/tommyjlong/Blinds-Control/master/media/Board_NodeMCU.jpg" width="250" align="center" />
 
 ## Configuring the Blinds Controller
 After flashing the ESP12 and restarting the Blinds Controller, it will come up just like any normal Sonoff-Tasmota device which puts it in WiFi AP mode and will broadcast a sonoff SSID (Ex. SSID= sonoff-4331).  Use a WiFi Client and connect to this AP.
